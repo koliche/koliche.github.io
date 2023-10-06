@@ -8,6 +8,6 @@
     <a href="https://koliche.github.io">koliche.github.io/home</a>
     <br />
     <br />
-    <a href="https://koliche.github.io">About Me</a>
+    <a href="https://koliche.github.io/#contact">About Me</a>
   </p>
 </p>
